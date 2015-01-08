@@ -17,7 +17,7 @@ candidate[A B C D E F]
 weight   [1 4 2 3 0 5]  
 
 ##### weight = weight + previous weight  
-       = [1 5 4 6 4 10]  
+weight = [1 5 4 6 4 10]  
 candidate[A B C D E F]  
 
 ##### write current weight to file;  

@@ -2,14 +2,14 @@
 
 ## individual query
 <a style="float:left;">
-    <img src="https://github.com/mincongzhang/3D_Retrieval_PartialSearch/raw/master/individual_query_results1.png" alt="Scan" title="Scan" height="300"/>
+    <img src="https://github.com/mincongzhang/3D_Retrieval_PartialSearch/raw/master/individual_query_results1.png"  height="300"/>
 </a>
 <a style="float:left;">
-    <img src="https://github.com/mincongzhang/3D_Retrieval_PartialSearch/raw/master/individual_query_results2.png" alt="Scan" title="Scan" height="300"/>
+    <img src="https://github.com/mincongzhang/3D_Retrieval_PartialSearch/raw/master/individual_query_results2.png"  height="300"/>
 </a>
 ## combined query
 <a style="float:left;">
-    <img src="https://github.com/mincongzhang/3D_Retrieval_PartialSearch/raw/master/combined_results.png" alt="Scan" title="Scan" height="300"/>
+    <img src="https://github.com/mincongzhang/3D_Retrieval_PartialSearch/raw/master/combined_results.png" height="300"/>
 </a>
 
 

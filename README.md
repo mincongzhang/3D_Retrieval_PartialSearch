@@ -1,5 +1,21 @@
 # 3D_Retrieval_PartialSearch
 
+## individual query
+<a style="float:left;">
+    <img src="https://github.com/mincongzhang/3D_Retrieval_PartialSearch/raw/master/individual_query_results1.png" alt="Scan" title="Scan" height="200"/>
+</a>
+<a style="float:left;">
+    <img src="https://github.com/mincongzhang/3D_Retrieval_PartialSearch/raw/master/individual_query_results1.png" alt="Scan" title="Scan" height="200"/>
+</a>
+## combined query
+<a style="float:left;">
+    <img src="https://github.com/mincongzhang/3D_Retrieval_PartialSearch/raw/master/combined_results.png" alt="Scan" title="Scan" height="200"/>
+</a>
+
+
+
+
+Example:
 ### initial partial weight setting:
 weight   [0 0 0 0 0 0]  
 

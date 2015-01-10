@@ -15,7 +15,7 @@
 
 
 
-Example:
+### Example:
 ### initial partial weight setting:
 weight   [0 0 0 0 0 0]  
 
